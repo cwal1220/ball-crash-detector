@@ -24,7 +24,7 @@ with open(classes_file, "r") as f:
     classes = [line.strip() for line in f.readlines()]
 
 # 이미지 파일 경로
-image_path = "test5.jpg"
+image_path = "images/test1.jpg"
 
 
 for i in range(1):
